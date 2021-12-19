@@ -62,29 +62,19 @@ p{
     padding-right: 20px;
 }
 
+.skill{
+    display: inline-block;
+    height: 300px;
+    width: 700;
+    margin-left: 200px;
+    margin-right: 200px;
+}
 .MySkills{
     text-align: center;
     margin-left: 40px;
     margin-right: 40px;
 }
 
-.Ideate{
-    height: 200px;
-    margin-left: 200px;
-    margin-right: 200px;
-}
-
-.Research{
-    height: 200px;
-    margin-left: 40px;
-    margin-right: 40px;
-}
-
-.Prototyping{
-    height: 200px;
-    margin-left: 40px;
-    margin-right: 40px;
-}
 .AllProjects{
     display: flex;
     text-align: center;
