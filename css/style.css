@@ -5,108 +5,108 @@
     padding-bottom: 10px;
     margin-top: 50px;
     margin-right: 70px;
- }
-  
- img{
- margin-left: 70px;
- margin-right: 40px;
- }
-  
-  
- nav li{
+}
+
+img{
+    margin-left: 70px;
+    margin-right: 40px;
+}
+
+
+nav li{
     display:inline-block;
     margin-left: 50px;
     margin-right: 20px;
     padding-right:20px;
     margin-top: 10px;
- }
- nav a{
+}
+nav a{
     color: black;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 14px;
     font-family: 'Comfortaa', cursive;
- }
- nav a:hover{
+}
+nav a:hover{
     color: #D7855A;
- }
-  
- .herolmg{
+}
+
+.herolmg{
     padding: 25px 25px 25px 25px;
- }
-  
- h2{
+}
+
+h2{
     text-align: center;
     margin-left: 40px;
     margin-right: 40px;
     margin-left: 40px;
     padding: 25px 25px 25px 25px;
- }
- .content{
+}
+.content{
     background-color: #EEE6DD;
     margin-left: 40px;
     margin-right: 40px;
     padding-top: 20px;
     padding-bottom: 20px
- }
- h1{
+}
+h1{
     padding-left: 20px;
     padding-right: 20px;
- }
- h3{
+}
+h3{
     font-family:'Comfortaa', cursive;
- }
- p{
+}
+p{
     font-family: 'Comfortaa', cursive;
     padding-left: 20px;
     padding-right: 20px;
- }
-  
- .MySkills{
+}
+
+.MySkills{
     text-align: center;
     margin-left: 40px;
     margin-right: 40px;
- }
-  
- .Ideate{
+}
+
+.Ideate{
     height: 200px;
     margin-left: 200px;
     margin-right: 200px;
- }
-  
- .Research{
+}
+
+.Research{
     height: 200px;
     margin-left: 40px;
     margin-right: 40px;
- }
-  
- .Prototyping{
+}
+
+.Prototyping{
     height: 200px;
     margin-left: 40px;
     margin-right: 40px;
- }
- .AllProjects{
+}
+.AllProjects{
     display: flex;
     text-align: center;
     margin-left: 50px;
     margin-right: 70px;
- }
- .project1{
+}
+.project1{
     background-color: #EEE6DD;
- }
-  
- .project2{
+}
+
+.project2{
     background-color: #EEE6DD;
- }
-  
- .project3{
+}
+
+.project3{
     background-color: #EEE6DD;
- }
-  
- .project4{
+}
+
+.project4{
     background-color: #EEE6DD;
- }
- button{
+}
+button{
     font-family: 'Comfortaa', cursive;
     float: right;
     font-size: 14px;
@@ -116,14 +116,13 @@
     color: white;
     border-radius: 8px;
     border: 2px solid #ffffff;
- }
- .footer li{
+}
+.footer li{
     display: inline-block;
     font-family: 'Comfortaa', cursive;
     margin-top: 50px;
- }
- footer{
+}
+footer{
     margin-top: 70px;
     margin-left: 450px;
- }
- 
+}
